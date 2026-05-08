@@ -10,22 +10,6 @@ Cada desafio possui seu próprio diretório com instruções específicas.
 
 ---
 
-## Estrutura
-├── Desafio 1
-│   └── README.md
-├── Desafio 2
-│   └── README.md
-├────── Secrets
-│       └── README.md
-├────── Azure
-│       └── README.md
-└── README.md
-├── Desafio 3
-│   └── README.md
-└── README.md
-
----
-
 ## Como usar
 
 1. Acesse o diretório do desafio desejado.
