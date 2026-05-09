@@ -1,6 +1,6 @@
 # Desafios com GitHub Actions
 
-Este repositório contém dois desafios práticos para demonstrar o funcionamento do **GitHub Actions**:
+Este repositório contém três desafios práticos para demonstrar o funcionamento do **GitHub Actions**:
 
 - **Desafio 1**: Workflow que leia três variáveis de repositório e exiba no log da execução
 - **Desafio 2**: Build e deploy de um projeto Node.js para o Azure App Services
